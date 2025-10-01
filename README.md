@@ -1,3 +1,3 @@
 Hello My Name Is Maurice
 
-![Develops](https://github.com/<Mawa-Jr>/<develops>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/<Mawa-Jr>/<devops>/actions/workflows/main.yml/badge.svg)
