@@ -4,7 +4,7 @@ Hello My Name Is Maurice
 
 [![Release](https://img.shields.io/github/release/<Mawa-Jr>/devops/all.svg?style=flat-square)](https://github.com/<Mawa-Jr>/devops/releases)
 
-![workflow](https://github.com/<Mawa-Jr>/<devops>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/<Mawa-Jr>/<workflow>/actions/workflows/main.yml/badge.svg)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/<Mawa-Jr>/<devops>/<action name taken from main.yml>/<develop>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/<Mawa-Jr>/<devops>/<action name taken from main.yml>/<develop>?style=flat-square)[java](src/test/java)
